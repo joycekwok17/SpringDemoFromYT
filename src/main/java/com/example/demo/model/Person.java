@@ -8,7 +8,7 @@ import java.util.UUID;
 public class Person {
 
     private final UUID id;
-    ///dffdfdf
+    ///dffd
     @NotBlank
     private final String name;
 
